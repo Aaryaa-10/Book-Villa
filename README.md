@@ -35,3 +35,7 @@ book-review-site/
 |-- README.md -> Project documentation
 |-- LICENSE
 |-- .gitignore
+
+# View Preview 
+Live preview on github =>
+(https://aaryaa-10.github.io/Book-Villa/)
